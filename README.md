@@ -6,6 +6,8 @@
   <img src="./Assets/outline.png" width="250" height="300" title="A schematic overview of Sherlock">
 </p>
 
+Link to paper: <http://precog.iiitd.edu.in/pubs/Characterizing_and_Detecting_Livestreaming_Chatbots-ASONAM19.pdf>
+
 ## Objective
 The purpose of our project is to detect chatbots in chatrooms of livestreaming services. Most livestreaming platforms recommed stream(er)s to viewers based on engagement of streams (viewership and chatroom activity). Popular streams consistently attracting a large number of users to their streams have various ways to monetize their content and make a lot of money. To fast-track gain in popularity, some streamers use fraudulent methods such as inflating viewership (through viewbots) and increasing chatroom activity (through chatbots). We aim to detect streams which are chatbotted and the constituent fake chatbot handles.
 
